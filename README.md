@@ -1,2 +1,0 @@
-# bintangganteng
-Hallo
